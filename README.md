@@ -5,9 +5,9 @@
 Create `.env` file in `bloglist-backend`
 
 ```
-PORT=
-MONGODB_URL=
-SECRET=
+PORT=3003
+MONGODB_URL=<mongodb_url>
+SECRET=<secret>
 ```
 
 Open command line in `bloglist-backend`
